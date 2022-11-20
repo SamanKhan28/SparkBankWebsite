@@ -35,10 +35,10 @@
     <!-- end loader -->
     <div id="mySidepanel" class="sidepanel">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-        <a href="index.html">Home</a>
-        <a class="active" href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="contact.html">Contact</a>
+        <a href="index.php">Home</a>
+        <a class="active" href="about.php">About</a>
+        <a href="services.php">Services</a>
+        <a href="contact.php">Contact</a>
     </div>
     <!-- header -->
     <header>
@@ -48,7 +48,7 @@
                 <div class="row d_flex">
                     <div class="col-sm-3">
                         <div class="logo">
-                            <a href="index.html">SPARK BANK</a>
+                            <a href="index.php">SPARK BANK</a>
                         </div>
                     </div>
                     <div class="col-sm-5">
@@ -87,7 +87,7 @@
                                 </div>
                                 <div class="about_text">
                                     <p>It is a long established fact that a reader will be distracted bIt is a long established fact that a reader will be distracted by y It is a long established fact that a reader will be distracted by It is a long established fact that a reader will be distracted by </p>
-                                    <a class="read_more" href="about.html">Read More</a>
+                                    <a class="read_more" href="about.php">Read More</a>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -108,7 +108,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <a class="logo_bottom" href="index.html">SPARK BANK</a>
+                        <a class="logo_bottom" href="index.php">SPARK BANK</a>
                     </div>
                     <div class="col-md-3 col-sm-6" ">
                   <div class="Informa conta ">

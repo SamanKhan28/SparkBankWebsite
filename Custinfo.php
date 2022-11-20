@@ -237,12 +237,12 @@
                                 </div>
                                 <div class="full">
                                     <ul class="menu_footer">
-                                        <li><a href="home.html">> Home</a></li>
-                                        <li><a href="about.html">> About</a></li>
-                                        <li><a href="exchange.html">> Exchange</a></li>
-                                        <li><a href="services.html">> Services</a></li>
-                                        <li><a href="new.html">> New</a></li>
-                                        <li><a href="contact.html">> Contact</a></li>
+                                        <li><a href="home.php">> Home</a></li>
+                                        <li><a href="about.php">> About</a></li>
+                                        <li><a href="exchange.php">> Exchange</a></li>
+                                        <li><a href="services.php">> Services</a></li>
+                                        <li><a href="new.php">> New</a></li>
+                                        <li><a href="contact.php">> Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@
                                         <h3>Newsletter</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
                                         <div class="newsletter_form">
-                                            <form action="index.html">
+                                            <form action="index.php">
                                                 <input type="email" placeholder="Your Email" name="#" required="">
                                                 <button>Submit</button>
                                             </form>
@@ -284,7 +284,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <p class="crp">© Copyrights 2019 design by html.design</p>
+                        <p class="crp">© Copyrights 2019 design by Saman Khan</p>
                     </div>
                 </div>
             </div>

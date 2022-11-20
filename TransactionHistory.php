@@ -35,10 +35,10 @@
     <!-- end loader -->
     <div id="mySidepanel" class="sidepanel">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a class="active" href="contact.html">Contact</a>
+        <a href="index.php">Home</a>
+        <a href="about.php">About</a>
+        <a href="services.php">Services</a>
+        <a class="active" href="contact.php">Contact</a>
     </div>
     <!-- header -->
     <header>
@@ -156,7 +156,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <a class="logo_bottom" href="index.html">SPARK BANK</a>
+                        <a class="logo_bottom" href="index.php">SPARK BANK</a>
                     </div>
                     <div class="col-md-3 col-sm-6" ">
                   <div class="Informa conta ">
@@ -240,7 +240,7 @@
                <div class="container ">
                   <div class="row ">
                      <div class="col-md-12 ">
-                        <p>© 2020 All Rights Reserved. Design by   <a href="https://html.design/ "> Free Html Template</a></p>
+                        <p>© 2020 All Rights Reserved. Design by Saman Khan</p>
                      </div>
                   </div>
                </div>
